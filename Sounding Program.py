@@ -26,6 +26,7 @@ highInnage_0Trim = ''
 lowInnage_highTrim = ''
 lowInnage_0Trim = ''
 
+# Tank sounding logic for SEP. BILGE OIL TANK
 if int(tankSounded) == 1:
     if 0 <= float(soundedValue) <= 5:
         highInnage = 5
