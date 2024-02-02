@@ -1,5 +1,5 @@
 # Sounding-Table-Project
-By: Christopher Andersen\n
+By: Christopher Andersen \n
 VIEW AS RAW FILE
 
 
