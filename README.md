@@ -1,9 +1,11 @@
 # Sounding-Table-Project
 By: Christopher Andersen
 
-```
-Sounded volume equation: ((((((HI_HT - HI_0) / HT) * ST) + HI_0) / HI - ((((LI_HT - LI_0) / HT) * ST) + LI_0) / LI) / (HI - LI) * (SV - LI) + (((((LI_HT - LI_0) / HT) * ST) + LI_0) / LI)) * SV
-```
+Sounding table equation:
+
+![Sounding table equation](/images/IMG_0107.jpg "Sounding table equation")
+
+
 Variables:
 HI_HT: Volume of the sounded innage rounded to the next highest innage value on the sounding table at the actual trim rounded to the next highest degree
 
@@ -23,3 +25,6 @@ LI: Sounded innage rounded to the next lowest innage value on the sounding table
 
 SV: Measurement taken from the sounding tape
 
+Example of sounding table:
+
+![Sounding table](/images/Sounding-table.png "Sounding table")
