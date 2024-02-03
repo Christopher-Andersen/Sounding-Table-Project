@@ -429,7 +429,7 @@ if int(tankSounded) == 1:
             highTrim = 5
             highInnage_highTrim = 3.8
             lowInnage_highTrim = 3.4
-            
+# Sounding equation            
 correctedVolume = ((((((highInnage_highTrim - highInnage_0Trim) / highTrim) *
                   shipsTrim) + highInnage_0Trim) / highInnage - ((((lowInnage_highTrim -
                   lowInnage_0Trim) / highTrim) * shipsTrim) + lowInnage_0Trim) / lowInnage) /
