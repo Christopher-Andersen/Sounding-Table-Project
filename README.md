@@ -15,19 +15,19 @@ Sounding table equation:
 
 
 Variables:
-HI_HT: Volume of the sounded innage rounded to the next highest innage value on the sounding table at the actual trim rounded to the next highest degree
+HI_HT: Volume of the sounded innage rounded to the next highest innage value on the sounding table at the actual trim rounded to the next highest meter
 
-HI_0: Volume of the sounded innage rounded to the next highest innage value on the sounding table at 0 degrees of trim
+HI_0: Volume of the sounded innage rounded to the next highest innage value on the sounding table at 0 meters of trim
 
 HI: Sounded innage rounded to the next highest innage value on the sounding table
 
-HT: Actual trim rounded to the next highest degree
+HT: Actual trim rounded to the next highest meter
 
 ST: Actual trim of the ship
 
-LI_HT: Volume of the sounded innage rounded to the next lowest innage value on the sounding table at the actual trim rounded to the next highest degree
+LI_HT: Volume of the sounded innage rounded to the next lowest innage value on the sounding table at the actual trim rounded to the next highest meter
 
-LI_0: Volume of the sounded innage rounded to the next lowest innage value on the sounding table, 0 degrees of trim
+LI_0: Volume of the sounded innage rounded to the next lowest innage value on the sounding table, 0 meters of trim
 
 LI: Sounded innage rounded to the next lowest innage value on the sounding table
 
